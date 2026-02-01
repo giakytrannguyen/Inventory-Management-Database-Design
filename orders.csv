@@ -1,0 +1,7 @@
+order_number,customer_ID,order_date,phone,delivery_address,payment_method,status
+101,1,2025-09-15 10:00:00,0909123123,"25 Nguyen Thi Minh Khai, District 1, HCMC",COD,Completed
+102,2,2025-09-18 14:30:00,0934222333,"12 Le Loi, District 1, HCMC","Bank Transfer",Shipped
+103,3,2025-09-20 09:00:00,0988999444,"45 Tran Hung Dao, District 5, HCMC",MoMo,Delivered
+104,4,2025-09-25 19:00:00,0977344233,"52 Ho Thi Ky, District 3, HCMC",VNPay,Completed
+105,5,2025-09-30 16:30:00,0911222333,"88 Nguyen Van Linh, District 7, HCMC",COD,Pending
+

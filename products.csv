@@ -1,0 +1,6 @@
+product_ID,product_name,weight_grams,buying_price_VND,selling_price_VND,min_quantity,quantity_in_stock,stocking_date,manufacturing_date,expiration_date,description,status,supplier_ID
+1,Uji Ceremonial Matcha,30,150000,220000,10,50,2025-09-10,2025-07-10,2026-07-10,Premium ceremonial-grade matcha from Uji,active,1
+2,Matcha Latte Mix,200,90000,150000,10,100,2025-09-12,2025-07-01,2026-07-01,Instant matcha latte blend,active,2
+3,Organic Sencha,100,80000,130000,10,70,2025-08-25,2025-06-15,2026-06-15,Loose-leaf organic green tea,active,4
+4,Matcha Cookies,150,50000,85000,10,120,2025-09-05,2025-07-20,2026-07-20,Crunchy cookies with real matcha,active,3
+5,Kyoto Genmaicha,100,75000,125000,10,60,2025-09-01,2025-06-01,2026-06-01,Green tea with roasted rice,active,5
